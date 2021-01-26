@@ -6,7 +6,7 @@ segment .text
 _ft_strlen:
 		mov rax, 0
 _while:
-		cmp BYTE [rdi + rax], 0
+		cmp BYTE[rdi + rax], 0
 		je _fin
 		inc rax
 		jmp _while
