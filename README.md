@@ -1,4 +1,4 @@
-# Assembler
+# Assembly
 This project aims to replicate some functions of the library in the assembly language.
 
 * Dentro del repositorio puedes encontrar los archivos (main.c / libasm.h / test.sh), que fueron creados con la finalidad de testear el proyecto.
